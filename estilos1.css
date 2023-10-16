@@ -1,0 +1,114 @@
+
+body {
+    background-image: url('https://misanimales.com/wp-content/uploads/2020/01/inteligencia-perros-gatos.jpg'); 
+    background-size: 1350px; 
+    background-repeat: no-repeat; 
+    background-attachment: fixed; 
+   
+}
+
+
+
+header {
+    
+    background-size: cover;
+    color: rgb(0, 0, 0);
+    text-align: center;
+    padding: 40px 0;
+}
+
+h1 {
+    font-size: 36px;
+    margin: 0;
+}
+
+nav ul {
+    list-style: none;
+    padding: 0;
+}
+
+nav li {
+    display: inline;
+    margin: 0 20px;
+}
+
+nav a {
+    text-decoration: none;
+    color: rgb(0, 0, 0);
+    font-weight: bold;
+    font-size: 18px;
+    border: #ff3300;
+    
+}
+
+
+main {
+    max-width: 1200px;
+    padding: 20px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+h2 {
+    font-size: 24px;
+    color: #000000;
+    margin-top: 0;
+}
+
+.producto {
+    margin-bottom: 20px;
+    padding: 20px;
+    
+}
+
+.producto img {
+    max-width: 100%;
+    height: auto;
+    background-repeat: no-repeat;
+    opacity: 0.5; 
+    
+}
+
+.producto p {
+    font-size: 16px;
+    color: #000000;
+    margin-top: 10px;
+}
+
+
+
+footer {
+    background-color: #333;
+    color: rgb(221, 221, 221);
+    text-align: center;
+    padding: 20px 0;
+}
+
+footer p {
+    margin: 0;
+}
+
+
+footer i {
+    font-size: 30px; 
+    margin: 0 10px; 
+}
+
+
+
+a:hover {
+    color: #ff6600;
+}
+
+
+ul.lista-productos {
+    list-style: none;
+    padding: 0;
+}
+
+.lista-productos li {
+    margin-bottom: 20px;
+}
+
+
+
+
